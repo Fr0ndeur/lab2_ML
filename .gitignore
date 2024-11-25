@@ -1,0 +1,3 @@
+.venv
+application_train.csv
+application_test.csv
